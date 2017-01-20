@@ -1,4 +1,8 @@
+ping_statistics.app
+ping_statistics.app/Contents
 .DS_Store
+ping/
+traceroute/
 /ping/
 /traceroute/
 # Byte-compiled / optimized / DLL files
